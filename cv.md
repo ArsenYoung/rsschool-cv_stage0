@@ -65,7 +65,7 @@ English / B2 (Upper-Intermediate)
 ## CONTACTS
 
 
-Discord: arsenii.ostroumov
+Discord: arseniy.ostroumov
 
 
 Telegram: @molodoikio
