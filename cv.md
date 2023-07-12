@@ -1,6 +1,11 @@
 # ARSENIY OSTROUMOV
 ### Intern Front-end developer
 ## ABOUT ME
+
+
+I am 33 years old. Married. I am fond of football, tennis and electronic music. But that's not what you're here for, is it? So my work will tell about me better. If you need a timely result, then I will give it to you.
+
+
 ## EDUCATION
 
 
