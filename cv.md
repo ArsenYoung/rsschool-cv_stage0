@@ -27,4 +27,9 @@ Setting up and supporting third-party software SAP HCM (PA/OM/PY modules)
 
 ## SKILLS
 ## FOREIGN LANGUAGES
+
+
+English / B2 (Upper-Intermediate)
+
+
 ## CONTACTS
