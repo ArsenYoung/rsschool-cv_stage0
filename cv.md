@@ -33,3 +33,10 @@ English / B2 (Upper-Intermediate)
 
 
 ## CONTACTS
+
+
+Discord: arsenii.ostroumov
+Telegram: @molodoikio
+WhatsApp: +79851533347
+Email: ostroum.am@gmail.com
+
