@@ -44,7 +44,15 @@ English / B2 (Upper-Intermediate)
 
 
 Discord: arsenii.ostroumov
+
+
 Telegram: @molodoikio
+
+
 WhatsApp: +79851533347
+
+
 Email: ostroum.am@gmail.com
+
+
 
