@@ -4,7 +4,7 @@
 Intern Front-end developer
 
 
-!\img\arseniy-photo.jpg
+![photo]\img\arseniy-photo.jpg
 
 
 ## CONTACTS
