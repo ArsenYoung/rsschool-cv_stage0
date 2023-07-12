@@ -4,7 +4,24 @@
 Intern Front-end developer
 
 
-![\img\arseniy-photo.jpg]
+![photo](\img\arseniy-photo.jpg)
+
+
+## CONTACTS
+
+
+Discord: arseniy.ostroumov
+
+
+Telegram: @molodoikio
+
+
+WhatsApp: +79851533347
+
+
+Email: ostroum.am@gmail.com
+
+
 ## ABOUT ME
 
 
@@ -78,19 +95,7 @@ Hard skills: algorithms, OOP, Java, C, Jenkins, JIRA
 English / B2 (Upper-Intermediate)
 
 
-## CONTACTS
 
-
-Discord: arseniy.ostroumov
-
-
-Telegram: @molodoikio
-
-
-WhatsApp: +79851533347
-
-
-Email: ostroum.am@gmail.com
 
 
 
