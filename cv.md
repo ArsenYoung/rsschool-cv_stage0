@@ -2,6 +2,9 @@
 
 
 Intern Front-end developer
+
+
+![\img\arseniy-photo.jpg]
 ## ABOUT ME
 
 
