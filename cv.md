@@ -26,6 +26,14 @@ Setting up and supporting third-party software SAP HCM (PA/OM/PY modules)
 
 
 ## SKILLS
+
+
+Soft skills: openness, responsibility, experience in the development team, ability to motivate colleagues
+
+
+Hard skills: algorithms, OOP, Java, C, Jenkins, JIRA
+
+
 ## FOREIGN LANGUAGES
 
 
