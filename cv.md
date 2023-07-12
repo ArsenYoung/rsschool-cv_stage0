@@ -2,6 +2,12 @@
 ### Intern Front-end developer
 ## ABOUT ME
 ## EDUCATION
+
+
+I graduated from college with a degree in Programming in 2009. In 2015 I received a higher technical education at the Moscow State University of Informatics, specializing in engineering.
+
+
+
 ## WORK EXPERIENCE
 
 
